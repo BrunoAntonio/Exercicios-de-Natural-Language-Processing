@@ -1,0 +1,4 @@
+O meu novo texto.Nova linha.Segunda nova linha.
+ Verdadeira nova linha.
+Mais texto a ser adicionado.
+E outra linhae.
